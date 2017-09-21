@@ -1,2 +1,2 @@
-# generator-sessionm-node
-SessionM Yeoman generator for Node.js
+# generator-sessionm-language
+SessionM Yeoman generator for scaffolding a project with a particular language.
